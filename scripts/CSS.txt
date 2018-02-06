@@ -1,0 +1,464 @@
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-aluche { background-position: 0 0px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-arnice { background-position: 0 -45px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-astrid { background-position: 0 -90px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Awin { background-position: 0 -135px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Ayesha { background-position: 0 -180px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-ayesha2 { background-position: 0 -225px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-barrel { background-position: 0 -270px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-cass { background-position: 0 -315px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-cecilia { background-position: 0 -360px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-cordelia { background-position: 0 -405px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-cordelia2 { background-position: 0 -450px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-corneria { background-position: 0 -495px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-delta { background-position: 0 -540px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-drossel { background-position: 0 -585px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-earthes { background-position: 0 -630px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Edge { background-position: 0 -675px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Elie { background-position: 0 -720px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-escha { background-position: 0 -765px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-escha2 { background-position: 0 -810px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-esty { background-position: 0 -855px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Felt { background-position: 0 -900px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-filly { background-position: 0 -945px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-firis { background-position: 0 -990px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-firis2 { background-position: 0 -1035px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-gino { background-position: 0 -1080px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-gio { background-position: 0 -1125px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-gust { background-position: 0 -1170px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-hagelstatue { background-position: 0 -1215px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-hanna { background-position: 0 -1260px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-harol { background-position: 0 -1305px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-hinako { background-position: 0 -1350px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-hinako2 { background-position: 0 -1395px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-homf { background-position: 0 -1440px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-homm { background-position: 0 -1485px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-homura { background-position: 0 -1530px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-iksel { background-position: 0 -1575px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-ilmeria { background-position: 0 -1620px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-ion { background-position: 0 -1665px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Iris { background-position: 0 -1710px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Jakuri { background-position: 0 -1755px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Judie { background-position: 0 -1800px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-julio { background-position: 0 -1845px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-juris { background-position: 0 -1890px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-kald { background-position: 0 -1935px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Katla { background-position: 0 -1980px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-keina { background-position: 0 -2025px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-keithgriff { background-position: 0 -2070px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Klein { background-position: 0 -2115px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-leon { background-position: 0 -2160px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-liane { background-position: 0 -2205px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-lias { background-position: 0 -2250px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Lilie { background-position: 0 -2295px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-linca { background-position: 0 -2340px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-linca2 { background-position: 0 -2385px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Linca3 { background-position: 0 -2430px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-lionela { background-position: 0 -2475px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-lionela2 { background-position: 0 -2520px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Lita { background-position: 0 -2565px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-logy { background-position: 0 -2610px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-logy2 { background-position: 0 -2655px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-lotte { background-position: 0 -2700px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-lotte2 { background-position: 0 -2745px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-lucille { background-position: 0 -2790px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Lydie { background-position: 0 -2835px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Lydie2 { background-position: 0 -2880px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-marc { background-position: 0 -2925px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Marie { background-position: 0 -2970px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-marion { background-position: 0 -3015px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-melvia { background-position: 0 -3060px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-meruru { background-position: 0 -3105px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-meruru2 { background-position: 0 -3150px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Micie { background-position: 0 -3195px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-mimi { background-position: 0 -3240px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-mimi2 { background-position: 0 -3285px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-miruca { background-position: 0 -3330px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-monika { background-position: 0 -3375px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-nio { background-position: 0 -3420px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-odelia { background-position: 0 -3465px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-oskar { background-position: 0 -3510px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-pamela { background-position: 0 -3555px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-pamela2 { background-position: 0 -3600px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-pamela3 { background-position: 0 -3645px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-pamela4 { background-position: 0 -3690px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-plachta { background-position: 0 -3735px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-plachta2 { background-position: 0 -3780px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-punitaro { background-position: 0 -3825px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Raze { background-position: 0 -3870px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-regina { background-position: 0 -3915px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-revy { background-position: 0 -3960px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-reyfer { background-position: 0 -4005px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-rorona { background-position: 0 -4050px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-rorona2 { background-position: 0 -4095px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-rorona3 { background-position: 0 -4140px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-rorona4 { background-position: 0 -4185px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-rufus { background-position: 0 -4230px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Shurelia { background-position: 0 -4275px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-sophie { background-position: 0 -4320px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-sophie2 { background-position: 0 -4365px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-stera { background-position: 0 -4410px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-stera2 { background-position: 0 -4455px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-sterk { background-position: 0 -4500px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Suelle { background-position: 0 -4545px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Suelle2 { background-position: 0 -4590px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-tantris { background-position: 0 -4635px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-tess { background-position: 0 -4680px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-threia { background-position: 0 -4725px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-totori { background-position: 0 -4770px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-totori2 { background-position: 0 -4815px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-totori3 { background-position: 0 -4860px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Tyria { background-position: 0 -4905px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Ulrika { background-position: 0 -4950px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Vayne { background-position: 0 -4995px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Viese { background-position: 0 -5040px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-Viorate { background-position: 0 -5085px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-wilbell { background-position: 0 -5130px; }
+body > div.side > div:nth-child(3) > div > div.tagline > div > div > ul> li > .flair-wilbell2 { background-position: 0 -5175px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-aluche { background-position: 0 0px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-arnice { background-position: 0 -45px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-astrid { background-position: 0 -90px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Awin { background-position: 0 -135px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Ayesha { background-position: 0 -180px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-ayesha2 { background-position: 0 -225px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-barrel { background-position: 0 -270px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-cass { background-position: 0 -315px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-cecilia { background-position: 0 -360px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-cordelia { background-position: 0 -405px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-cordelia2 { background-position: 0 -450px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-corneria { background-position: 0 -495px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-delta { background-position: 0 -540px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-drossel { background-position: 0 -585px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-earthes { background-position: 0 -630px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Edge { background-position: 0 -675px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Elie { background-position: 0 -720px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-escha { background-position: 0 -765px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-escha2 { background-position: 0 -810px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-esty { background-position: 0 -855px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Felt { background-position: 0 -900px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-filly { background-position: 0 -945px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-firis { background-position: 0 -990px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-firis2 { background-position: 0 -1035px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-gino { background-position: 0 -1080px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-gio { background-position: 0 -1125px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-gust { background-position: 0 -1170px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-hagelstatue { background-position: 0 -1215px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-hanna { background-position: 0 -1260px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-harol { background-position: 0 -1305px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-hinako { background-position: 0 -1350px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-hinako2 { background-position: 0 -1395px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-homf { background-position: 0 -1440px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-homm { background-position: 0 -1485px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-homura { background-position: 0 -1530px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-iksel { background-position: 0 -1575px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-ilmeria { background-position: 0 -1620px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-ion { background-position: 0 -1665px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Iris { background-position: 0 -1710px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Jakuri { background-position: 0 -1755px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Judie { background-position: 0 -1800px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-julio { background-position: 0 -1845px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-juris { background-position: 0 -1890px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-kald { background-position: 0 -1935px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Katla { background-position: 0 -1980px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-keina { background-position: 0 -2025px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-keithgriff { background-position: 0 -2070px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Klein { background-position: 0 -2115px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-leon { background-position: 0 -2160px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-liane { background-position: 0 -2205px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-lias { background-position: 0 -2250px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Lilie { background-position: 0 -2295px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-linca { background-position: 0 -2340px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-linca2 { background-position: 0 -2385px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Linca3 { background-position: 0 -2430px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-lionela { background-position: 0 -2475px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-lionela2 { background-position: 0 -2520px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Lita { background-position: 0 -2565px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-logy { background-position: 0 -2610px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-logy2 { background-position: 0 -2655px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-lotte { background-position: 0 -2700px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-lotte2 { background-position: 0 -2745px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-lucille { background-position: 0 -2790px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Lydie { background-position: 0 -2835px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Lydie2 { background-position: 0 -2880px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-marc { background-position: 0 -2925px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Marie { background-position: 0 -2970px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-marion { background-position: 0 -3015px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-melvia { background-position: 0 -3060px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-meruru { background-position: 0 -3105px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-meruru2 { background-position: 0 -3150px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Micie { background-position: 0 -3195px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-mimi { background-position: 0 -3240px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-mimi2 { background-position: 0 -3285px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-miruca { background-position: 0 -3330px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-monika { background-position: 0 -3375px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-nio { background-position: 0 -3420px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-odelia { background-position: 0 -3465px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-oskar { background-position: 0 -3510px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-pamela { background-position: 0 -3555px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-pamela2 { background-position: 0 -3600px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-pamela3 { background-position: 0 -3645px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-pamela4 { background-position: 0 -3690px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-plachta { background-position: 0 -3735px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-plachta2 { background-position: 0 -3780px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-punitaro { background-position: 0 -3825px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Raze { background-position: 0 -3870px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-regina { background-position: 0 -3915px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-revy { background-position: 0 -3960px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-reyfer { background-position: 0 -4005px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-rorona { background-position: 0 -4050px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-rorona2 { background-position: 0 -4095px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-rorona3 { background-position: 0 -4140px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-rorona4 { background-position: 0 -4185px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-rufus { background-position: 0 -4230px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Shurelia { background-position: 0 -4275px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-sophie { background-position: 0 -4320px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-sophie2 { background-position: 0 -4365px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-stera { background-position: 0 -4410px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-stera2 { background-position: 0 -4455px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-sterk { background-position: 0 -4500px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Suelle { background-position: 0 -4545px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Suelle2 { background-position: 0 -4590px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-tantris { background-position: 0 -4635px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-tess { background-position: 0 -4680px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-threia { background-position: 0 -4725px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-totori { background-position: 0 -4770px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-totori2 { background-position: 0 -4815px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-totori3 { background-position: 0 -4860px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Tyria { background-position: 0 -4905px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Ulrika { background-position: 0 -4950px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Vayne { background-position: 0 -4995px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Viese { background-position: 0 -5040px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-Viorate { background-position: 0 -5085px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-wilbell { background-position: 0 -5130px; }
+body > div.side > div:nth-child(5) > div > div.tagline > div > div > ul> li > .flair-wilbell2 { background-position: 0 -5175px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-aluche { background-position: 0 0px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-arnice { background-position: 0 -45px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-astrid { background-position: 0 -90px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Awin { background-position: 0 -135px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Ayesha { background-position: 0 -180px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-ayesha2 { background-position: 0 -225px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-barrel { background-position: 0 -270px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-cass { background-position: 0 -315px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-cecilia { background-position: 0 -360px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-cordelia { background-position: 0 -405px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-cordelia2 { background-position: 0 -450px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-corneria { background-position: 0 -495px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-delta { background-position: 0 -540px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-drossel { background-position: 0 -585px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-earthes { background-position: 0 -630px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Edge { background-position: 0 -675px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Elie { background-position: 0 -720px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-escha { background-position: 0 -765px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-escha2 { background-position: 0 -810px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-esty { background-position: 0 -855px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Felt { background-position: 0 -900px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-filly { background-position: 0 -945px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-firis { background-position: 0 -990px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-firis2 { background-position: 0 -1035px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-gino { background-position: 0 -1080px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-gio { background-position: 0 -1125px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-gust { background-position: 0 -1170px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-hagelstatue { background-position: 0 -1215px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-hanna { background-position: 0 -1260px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-harol { background-position: 0 -1305px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-hinako { background-position: 0 -1350px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-hinako2 { background-position: 0 -1395px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-homf { background-position: 0 -1440px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-homm { background-position: 0 -1485px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-homura { background-position: 0 -1530px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-iksel { background-position: 0 -1575px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-ilmeria { background-position: 0 -1620px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-ion { background-position: 0 -1665px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Iris { background-position: 0 -1710px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Jakuri { background-position: 0 -1755px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Judie { background-position: 0 -1800px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-julio { background-position: 0 -1845px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-juris { background-position: 0 -1890px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-kald { background-position: 0 -1935px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Katla { background-position: 0 -1980px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-keina { background-position: 0 -2025px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-keithgriff { background-position: 0 -2070px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Klein { background-position: 0 -2115px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-leon { background-position: 0 -2160px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-liane { background-position: 0 -2205px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-lias { background-position: 0 -2250px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Lilie { background-position: 0 -2295px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-linca { background-position: 0 -2340px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-linca2 { background-position: 0 -2385px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Linca3 { background-position: 0 -2430px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-lionela { background-position: 0 -2475px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-lionela2 { background-position: 0 -2520px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Lita { background-position: 0 -2565px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-logy { background-position: 0 -2610px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-logy2 { background-position: 0 -2655px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-lotte { background-position: 0 -2700px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-lotte2 { background-position: 0 -2745px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-lucille { background-position: 0 -2790px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Lydie { background-position: 0 -2835px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Lydie2 { background-position: 0 -2880px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-marc { background-position: 0 -2925px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Marie { background-position: 0 -2970px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-marion { background-position: 0 -3015px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-melvia { background-position: 0 -3060px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-meruru { background-position: 0 -3105px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-meruru2 { background-position: 0 -3150px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Micie { background-position: 0 -3195px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-mimi { background-position: 0 -3240px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-mimi2 { background-position: 0 -3285px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-miruca { background-position: 0 -3330px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-monika { background-position: 0 -3375px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-nio { background-position: 0 -3420px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-odelia { background-position: 0 -3465px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-oskar { background-position: 0 -3510px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-pamela { background-position: 0 -3555px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-pamela2 { background-position: 0 -3600px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-pamela3 { background-position: 0 -3645px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-pamela4 { background-position: 0 -3690px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-plachta { background-position: 0 -3735px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-plachta2 { background-position: 0 -3780px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-punitaro { background-position: 0 -3825px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Raze { background-position: 0 -3870px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-regina { background-position: 0 -3915px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-revy { background-position: 0 -3960px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-reyfer { background-position: 0 -4005px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-rorona { background-position: 0 -4050px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-rorona2 { background-position: 0 -4095px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-rorona3 { background-position: 0 -4140px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-rorona4 { background-position: 0 -4185px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-rufus { background-position: 0 -4230px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Shurelia { background-position: 0 -4275px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-sophie { background-position: 0 -4320px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-sophie2 { background-position: 0 -4365px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-stera { background-position: 0 -4410px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-stera2 { background-position: 0 -4455px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-sterk { background-position: 0 -4500px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Suelle { background-position: 0 -4545px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Suelle2 { background-position: 0 -4590px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-tantris { background-position: 0 -4635px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-tess { background-position: 0 -4680px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-threia { background-position: 0 -4725px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-totori { background-position: 0 -4770px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-totori2 { background-position: 0 -4815px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-totori3 { background-position: 0 -4860px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Tyria { background-position: 0 -4905px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Ulrika { background-position: 0 -4950px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Vayne { background-position: 0 -4995px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Viese { background-position: 0 -5040px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-Viorate { background-position: 0 -5085px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-wilbell { background-position: 0 -5130px; }
+body > div.side > div:nth-child(6) > div > div.tagline > div > div > ul> li > .flair-wilbell2 { background-position: 0 -5175px; }
+.flair-aluche:after { background-position: 0 0px; }
+.flair-arnice:after { background-position: 0 -45px; }
+.flair-astrid:after { background-position: 0 -90px; }
+.flair-Awin:after { background-position: 0 -135px; }
+.flair-Ayesha:after { background-position: 0 -180px; }
+.flair-ayesha2:after { background-position: 0 -225px; }
+.flair-barrel:after { background-position: 0 -270px; }
+.flair-cass:after { background-position: 0 -315px; }
+.flair-cecilia:after { background-position: 0 -360px; }
+.flair-cordelia:after { background-position: 0 -405px; }
+.flair-cordelia2:after { background-position: 0 -450px; }
+.flair-corneria:after { background-position: 0 -495px; }
+.flair-delta:after { background-position: 0 -540px; }
+.flair-drossel:after { background-position: 0 -585px; }
+.flair-earthes:after { background-position: 0 -630px; }
+.flair-Edge:after { background-position: 0 -675px; }
+.flair-Elie:after { background-position: 0 -720px; }
+.flair-escha:after { background-position: 0 -765px; }
+.flair-escha2:after { background-position: 0 -810px; }
+.flair-esty:after { background-position: 0 -855px; }
+.flair-Felt:after { background-position: 0 -900px; }
+.flair-filly:after { background-position: 0 -945px; }
+.flair-firis:after { background-position: 0 -990px; }
+.flair-firis2:after { background-position: 0 -1035px; }
+.flair-gino:after { background-position: 0 -1080px; }
+.flair-gio:after { background-position: 0 -1125px; }
+.flair-gust:after { background-position: 0 -1170px; }
+.flair-hagelstatue:after { background-position: 0 -1215px; }
+.flair-hanna:after { background-position: 0 -1260px; }
+.flair-harol:after { background-position: 0 -1305px; }
+.flair-hinako:after { background-position: 0 -1350px; }
+.flair-hinako2:after { background-position: 0 -1395px; }
+.flair-homf:after { background-position: 0 -1440px; }
+.flair-homm:after { background-position: 0 -1485px; }
+.flair-homura:after { background-position: 0 -1530px; }
+.flair-iksel:after { background-position: 0 -1575px; }
+.flair-ilmeria:after { background-position: 0 -1620px; }
+.flair-ion:after { background-position: 0 -1665px; }
+.flair-Iris:after { background-position: 0 -1710px; }
+.flair-Jakuri:after { background-position: 0 -1755px; }
+.flair-Judie:after { background-position: 0 -1800px; }
+.flair-julio:after { background-position: 0 -1845px; }
+.flair-juris:after { background-position: 0 -1890px; }
+.flair-kald:after { background-position: 0 -1935px; }
+.flair-Katla:after { background-position: 0 -1980px; }
+.flair-keina:after { background-position: 0 -2025px; }
+.flair-keithgriff:after { background-position: 0 -2070px; }
+.flair-Klein:after { background-position: 0 -2115px; }
+.flair-leon:after { background-position: 0 -2160px; }
+.flair-liane:after { background-position: 0 -2205px; }
+.flair-lias:after { background-position: 0 -2250px; }
+.flair-Lilie:after { background-position: 0 -2295px; }
+.flair-linca:after { background-position: 0 -2340px; }
+.flair-linca2:after { background-position: 0 -2385px; }
+.flair-Linca3:after { background-position: 0 -2430px; }
+.flair-lionela:after { background-position: 0 -2475px; }
+.flair-lionela2:after { background-position: 0 -2520px; }
+.flair-Lita:after { background-position: 0 -2565px; }
+.flair-logy:after { background-position: 0 -2610px; }
+.flair-logy2:after { background-position: 0 -2655px; }
+.flair-lotte:after { background-position: 0 -2700px; }
+.flair-lotte2:after { background-position: 0 -2745px; }
+.flair-lucille:after { background-position: 0 -2790px; }
+.flair-Lydie:after { background-position: 0 -2835px; }
+.flair-Lydie2:after { background-position: 0 -2880px; }
+.flair-marc:after { background-position: 0 -2925px; }
+.flair-Marie:after { background-position: 0 -2970px; }
+.flair-marion:after { background-position: 0 -3015px; }
+.flair-melvia:after { background-position: 0 -3060px; }
+.flair-meruru:after { background-position: 0 -3105px; }
+.flair-meruru2:after { background-position: 0 -3150px; }
+.flair-Micie:after { background-position: 0 -3195px; }
+.flair-mimi:after { background-position: 0 -3240px; }
+.flair-mimi2:after { background-position: 0 -3285px; }
+.flair-miruca:after { background-position: 0 -3330px; }
+.flair-monika:after { background-position: 0 -3375px; }
+.flair-nio:after { background-position: 0 -3420px; }
+.flair-odelia:after { background-position: 0 -3465px; }
+.flair-oskar:after { background-position: 0 -3510px; }
+.flair-pamela:after { background-position: 0 -3555px; }
+.flair-pamela2:after { background-position: 0 -3600px; }
+.flair-pamela3:after { background-position: 0 -3645px; }
+.flair-pamela4:after { background-position: 0 -3690px; }
+.flair-plachta:after { background-position: 0 -3735px; }
+.flair-plachta2:after { background-position: 0 -3780px; }
+.flair-punitaro:after { background-position: 0 -3825px; }
+.flair-Raze:after { background-position: 0 -3870px; }
+.flair-regina:after { background-position: 0 -3915px; }
+.flair-revy:after { background-position: 0 -3960px; }
+.flair-reyfer:after { background-position: 0 -4005px; }
+.flair-rorona:after { background-position: 0 -4050px; }
+.flair-rorona2:after { background-position: 0 -4095px; }
+.flair-rorona3:after { background-position: 0 -4140px; }
+.flair-rorona4:after { background-position: 0 -4185px; }
+.flair-rufus:after { background-position: 0 -4230px; }
+.flair-Shurelia:after { background-position: 0 -4275px; }
+.flair-sophie:after { background-position: 0 -4320px; }
+.flair-sophie2:after { background-position: 0 -4365px; }
+.flair-stera:after { background-position: 0 -4410px; }
+.flair-stera2:after { background-position: 0 -4455px; }
+.flair-sterk:after { background-position: 0 -4500px; }
+.flair-Suelle:after { background-position: 0 -4545px; }
+.flair-Suelle2:after { background-position: 0 -4590px; }
+.flair-tantris:after { background-position: 0 -4635px; }
+.flair-tess:after { background-position: 0 -4680px; }
+.flair-threia:after { background-position: 0 -4725px; }
+.flair-totori:after { background-position: 0 -4770px; }
+.flair-totori2:after { background-position: 0 -4815px; }
+.flair-totori3:after { background-position: 0 -4860px; }
+.flair-Tyria:after { background-position: 0 -4905px; }
+.flair-Ulrika:after { background-position: 0 -4950px; }
+.flair-Vayne:after { background-position: 0 -4995px; }
+.flair-Viese:after { background-position: 0 -5040px; }
+.flair-Viorate:after { background-position: 0 -5085px; }
+.flair-wilbell:after { background-position: 0 -5130px; }
+.flair-wilbell2:after { background-position: 0 -5175px; }
